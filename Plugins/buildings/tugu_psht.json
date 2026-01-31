@@ -1,0 +1,24 @@
+{
+  "id": "tugu_psht",
+  "type": "decoration",
+  "title": "Tugu Perguruan PSHT",
+  "description": "Monumen budaya silat Indonesia",
+  "category": "decoration",
+
+  "width": 1,
+  "height": 1,
+
+  "texture": [
+    "tugu_psht_1.png"
+  ],
+
+  "price": 5000,
+  "build_time": 2,
+
+  "effect": {
+    "radius": 5,
+    "culture": 15,
+    "happiness": 10,
+    "tourism": 6
+  }
+}
