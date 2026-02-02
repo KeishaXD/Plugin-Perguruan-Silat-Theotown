@@ -1,0 +1,27 @@
+[
+  {
+    "id": "Tugu PSHT",
+    "author": "KeishaXD (Github)",
+    "meta": {
+      "pca": {
+        "version": "4.4.2"
+      }
+    },
+    "frames": [
+      {
+        "bmp": "tugu_psht_1.png"
+      }
+    ],
+    "build time": 1,
+    "influence park": 20,
+    "influence sport": 10,
+    "influence culture": 40,
+    "width": 1,
+    "height": 1,
+    "random frame": false,
+    "needs road": false,
+    "needs land": false,
+    "needs water": false,
+    "type": "park"
+  }
+]
