@@ -1,21 +1,27 @@
-{
-  "id": "tugu_psht",
-  "type": "decoration",
-  "title": "Tugu Perguruan PSHT",
-  "description": "Monumen budaya silat Indonesia",
+[
+  {
+    "id": "tugu_psht",
+    "author": "Jovallin",
+    "title": "Tugu Perguruan PSHT",
+    "text": "Monumen budaya silat Indonesia",
+    "type": "decoration",
 
-  "width": 1,
-  "height": 1,
+    "price": 5000,
+    "build time": 2,
 
-  "texture": "textures/tugu_psht_1.png"
+    "draw ground": true,
+    "needs road": false,
+    "auto build": false,
 
-  "price": 5000,
-  "build_time": 2,
+    "width": 1,
+    "height": 1,
 
-  "effect": {
-    "radius": 5,
-    "culture": 15,
+    "frames": [
+      { "bmp": "tugu_psht_1.png" }
+    ],
+
     "happiness": 10,
-    "tourism": 6
+    "education": 5,
+    "culture": 8
   }
-}
+]
